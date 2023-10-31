@@ -1,6 +1,6 @@
 # BRApi
 
-`brasilapi.com.br` Elixir client.
+brasilapi.com.br Elixir client.
 
 ## Installation
 
